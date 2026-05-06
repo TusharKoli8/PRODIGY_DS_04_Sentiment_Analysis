@@ -16,7 +16,7 @@ public opinion and attitudes toward specific topics and brands.
 **Source:** [Prodigy InfoTech Data Science Datasets — Task 4](https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%204)
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 | Python 3.9+ | Core language |
